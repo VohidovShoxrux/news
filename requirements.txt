@@ -2,6 +2,8 @@ asgiref==3.8.1
 binwalk==2.1.0
 cheroot==10.0.0
 Django==5.2
+gunicorn==23.0.0
 jaraco.functools==4.1.0
 more-itertools==10.7.0
+packaging==25.0
 sqlparse==0.5.3
